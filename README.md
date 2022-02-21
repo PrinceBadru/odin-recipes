@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to test my skills for website development using html only , it is a website that is going to test all the basic skills of absolute and relative html and all html skills required to build a full website.
